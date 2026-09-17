@@ -1,1 +1,1 @@
-from dilenesantos.bank_app import *
+from dilenesantos.bank-app import *
